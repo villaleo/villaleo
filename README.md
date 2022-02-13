@@ -4,7 +4,7 @@
 
 - 🔭 Learning Java, currently have C++ and Python up my sleeve
 - 🖥 Working on adding new features to my [Todoplusplus](https://github.com/villaleo/todoplusplus) project
-- 📚 Getting ready for the next academic semester
+- 📚 Applying to SWE internship opportunities
 
 Connect with me: <br>
 <a href="https://www.linkedin.com/in/leonardo-villalobos-099a97206/">
