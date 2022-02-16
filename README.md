@@ -2,9 +2,16 @@
 
 ![A landscape shot of Toro Park in Salinas, CA](assets/images/toro_park_banner.png)
 
-- 🔭 Learning Rust and Java, currently have C++ and Python in the bag
+- 🔭 Learning Rust and Java
 - 🖥 Looking for inspiration to build new projects
 - 📚 Applying to SWE internship opportunities
+
+Technologies:
+<!-- Rust -->
+<!-- Java -->
+
+<!-- C++ -->
+<!-- Python -->
 
 Connect with me: <br>
 <a href="https://www.linkedin.com/in/leonardo-villalobos-099a97206/">
