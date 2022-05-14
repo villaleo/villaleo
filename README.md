@@ -4,7 +4,7 @@
 
 - 🔭 Learning **Rust** and **Java**
 - 🖥 Looking for inspiration to build new projects
-- 📚 Applying to SWE internship opportunities
+- 🚗 Incoming SWE @ [Uber](https://www.uber.com/us/en/about/)
 
 Technologies:
 <div>  
