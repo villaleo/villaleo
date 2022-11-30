@@ -4,14 +4,13 @@
 
 - 🔭 Learning about:
   - REST API development using Springboot 2 and Java
-  - Relational database systems using MySQL
+  - Relational and non-relational database systems using MySQL, MongoDB, and Redis
 - 🖥 Looking for inspiration to build new projects
 - 📚 Senior @CSU Monterey Bay
+- 🚗 Ex Intern @Uber
 
-Technologies:
+Skills:
 <div>
-  <!-- Bazel -->
-  <img src="https://blog.bazel.build/images/bazel-icon.svg" alt="Bazel logo" width="30" height="30">
   <!-- C++ -->
   <img src="assets/images/Cpp_logo.png" alt="C++ logo" width="30" height="30">
   <!-- Go -->
@@ -24,6 +23,8 @@ Technologies:
   <img src="assets/images/Python_logo.png" alt="Python logo" width="30" height="30">
   <!-- MySQL -->
   <img src="https://user-images.githubusercontent.com/75503696/168443500-fac932d7-2917-4770-b62c-b9e0457a52fe.png" alt="Node logo" width="35" height="35">
+  <!-- Bazel -->
+  <img src="https://blog.bazel.build/images/bazel-icon.svg" alt="Bazel logo" width="30" height="30">
 </div>
 
 Connect with me: <br>
