@@ -1,36 +1,20 @@
-### Hey! Welcome to my profile. 👋
+<h1 align="center">Hey! My name is Leo</h1>
+<h3 align="center">Undergrad computer scientist attending CSU Monterey Bay. Graduating in May 2023 :)</h3>
 
-![A landscape shot of Toro Park in Salinas, CA](assets/images/toro_park_banner.png)
+- 🔭 I’m currently working on [interview-prep](https://github.com/villaleo/interview-prep)
 
-- 🔭 Learning about:
-  - REST API development using Springboot 2 and Java
-  - Relational and non-relational database systems using MySQL, MongoDB, and Redis
-- 🖥 Looking for inspiration to build new projects
-- 📚 Senior @CSU Monterey Bay
-- 🚗 Ex Intern @Uber
+- 🌱 I’m currently learning **Rust, Docker, iOS App Development**
 
-Skills:
-<div>
-  <!-- C++ -->
-  <img src="assets/images/Cpp_logo.png" alt="C++ logo" width="30" height="30">
-  <!-- Go -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" alt="Go logo" width="35" height="25">
-  <!-- Java -->
-  <img src="assets/images/Java_logo.png" alt="Java logo" width="35" height="35">
-  <!-- Node -->
-  <img src="https://user-images.githubusercontent.com/75503696/168443481-43438062-e3af-4485-8846-367e436abc77.png" alt="Node logo" width="35" height="35">
-  <!-- Python -->
-  <img src="assets/images/Python_logo.png" alt="Python logo" width="30" height="30">
-  <!-- MySQL -->
-  <img src="https://user-images.githubusercontent.com/75503696/168443500-fac932d7-2917-4770-b62c-b9e0457a52fe.png" alt="Node logo" width="35" height="35">
-  <!-- Bazel -->
-  <img src="https://blog.bazel.build/images/bazel-icon.svg" alt="Bazel logo" width="30" height="30">
-</div>
+- 👨🏻‍💻 My LinkedIn profile [https://www.linkedin.com/in/villaleobos/](https://www.linkedin.com/in/villaleobos/)
 
-Connect with me: <br>
-<a href="https://www.linkedin.com/in/leonardo-villalobos-099a97206/">
-<img src="assets/images/LinkedIn_logo.gif" alt="LinkedIn company logo" width="38" height="35" style="vertical-align:bottom">
-</a>
-<a href="https://www.hackerrank.com/Levillalobos">
-<img src="assets/images/HackerRank_logo.png" alt="Hacker Rank company logo" width="35" height="35" style="vertical-align:bottom">
-</a>
+- 📫 How to reach me **villaleobos@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/villaleobos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="villaleobos" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/levillalobos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="levillalobos" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
