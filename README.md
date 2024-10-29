@@ -1,10 +1,10 @@
 <img
-  height=180
+  height=150
   align="center"
   src="https://my-stats-43gk.vercel.app/api?username=villaleo&show_icons=true&theme=dark&hide=contribs,issues,stars&rank_icon=github&include_all_commits=true"
 />
 <img
-  height=180
+  height=150
   align="center"
   src="https://my-stats-43gk.vercel.app/api/top-langs/?username=villaleo&hide=html,css,c,cmake&langs_count=8&layout=compact&theme=dark"
 />  
