@@ -1,12 +1,40 @@
-<h1 align="center">Hi, i'm Leo</h1>
-<h3 align="center">I'm a Computer Science graduate seeking new job opportunities</h3>
+<img
+  height=180
+  align="center"
+  src="https://my-stats-43gk.vercel.app/api?username=villaleo&show_icons=true&theme=dark&hide=contribs,issues,stars&rank_icon=github&include_all_commits=true"
+/>
+<img
+  height=180
+  align="center"
+  src="https://my-stats-43gk.vercel.app/api/top-langs/?username=villaleo&hide=html,css,c,cmake&langs_count=8&layout=compact&theme=dark"
+/>  
 
-- 🌱 I’m currently learning *Rust*, *Docker*, and *Kafka*
+# What's Up!
 
-- 👨🏻‍💻 [My LinkedIn profile](https://www.linkedin.com/in/villaleobos/)
+I'm currently a Web Development Instructor @[Digital NEST](https://digitalnest.org/). I'm a Software Engineer with a concentration in backend development and distributed systems.
 
-- 📫 [Email me](mailto:villaleobos@gmail.com)
+### Things I'm actively learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+- 📨 Apache Kafka
+- 🐳 Docker
+- 🦀 Rust
 
+### Hobbies
+
+- 🥾 Hiking
+- 🌻 Being outdoors
+- 🍽️ Eating
+
+### Get in touch
+
+- 🌐 Check me out on [LinkedIn](https://linkedin.com/in/villaleobos)
+- 📧 Shoot me an [email](mailto:villaleobos@gmail.com)
+
+<!--
+<img
+  height=180
+  align="center"
+  style="display: inline-block;"
+  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=villaleo&theme=dark"
+/>
+-->
