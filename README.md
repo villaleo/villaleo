@@ -1,12 +1,12 @@
 <img
-  height=150
+  height=165
   align="center"
-  src="https://my-stats-43gk.vercel.app/api?username=villaleo&show_icons=true&theme=dark&hide=contribs,issues,stars&rank_icon=github&include_all_commits=true"
+  src="https://my-stats-43gk.vercel.app/api?username=villaleo&show_icons=true&hide=contribs,issues,stars&rank_icon=github&include_all_commits=true"
 />
 <img
-  height=150
+  height=165
   align="center"
-  src="https://my-stats-43gk.vercel.app/api/top-langs/?username=villaleo&hide=html,css,c,cmake&langs_count=8&layout=compact&theme=dark"
+  src="https://my-stats-43gk.vercel.app/api/top-langs/?username=villaleo&hide=html,css,c,cmake&langs_count=8&layout=compact"
 />  
 
 # What's Up!
