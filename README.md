@@ -1,40 +1,15 @@
-<img
-  height=165
-  align="center"
-  src="https://my-stats-43gk.vercel.app/api?username=villaleo&show_icons=true&hide=contribs,issues,stars&rank_icon=github&include_all_commits=true"
-/>
-<img
-  height=165
-  align="center"
-  src="https://my-stats-43gk.vercel.app/api/top-langs/?username=villaleo&hide=html,css,c,cmake&langs_count=8&layout=compact"
-/>  
+# Hii!
 
-# What's Up!
+I'm Leo Villalobos, a Web Development Instructor at [Digital NEST](https://digitalnest.org/). I studied Computer Science at CSU Monterey Bay and have a concentration in Software Engineering. At Digital NEST, I have the privilege to share my experiences and teach programming and web development to the youth of my community.
 
-I'm currently a Web Development Instructor @[Digital NEST](https://digitalnest.org/). I'm a Software Engineer with a concentration in backend development and distributed systems.
+I love learning new things and am constantly growing my skillset. [Go](https://go.dev) is my _go_-to programming language, but lately i've been learning more about [JavaScript](https://www.javascript.com/), [Gleam](https://gleam.run/), and [Rust](https://www.rust-lang.org/).
 
-### Things I'm actively learning
+## Cool Stuff I'm Working On
 
-- 📨 Apache Kafka
-- 🐳 Docker
-- 🦀 Rust
+* [Calculator API](#): A lightweight, stateless REST API to perform basic arithmetic operations. The goal of this project is to practice my programming and software design skills with Go, utilizing the [net/http](https://pkg.go.dev/net/http) and [encoding/json](https://pkg.go.dev/encoding/json) packages to create a stateless API service.
+* [EventHub](https://github.com/villaleo/eventhub): An event management API service to create and manage events, similar to services provided by Eventbrite and Meetup. The goal of this project is to learn how to use gRPC, Protocol Buffers (ProtoBuf), and the [go.uber.org/fx](https://pkg.go.dev/go.uber.org/fx) package to create a distributed backend service using dependency injection.
 
-### Hobbies
+## Get In Touch
 
-- 🥾 Hiking
-- 🌻 Being outdoors
-- 🍽️ Eating
-
-### Get in touch
-
-- 🌐 Check me out on [LinkedIn](https://linkedin.com/in/villaleobos)
-- 📧 Shoot me an [email](mailto:villaleobos@gmail.com)
-
-<!--
-<img
-  height=180
-  align="center"
-  style="display: inline-block;"
-  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=villaleo&theme=dark"
-/>
--->
+* 📫 [Shoot me an Email](mailto:villaleobos@gmail.com)
+* 🌐 [Connect with me on LinkedIn](https://linkedin.com/in/villaleobos)
