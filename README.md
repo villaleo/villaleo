@@ -6,7 +6,7 @@ When I'm not teaching, you'll find me writing code—mostly in **Go**, with a he
 
 ### What I'm working on
 
-🦀 **[Current project]** – Implementing a POSIX shell in Rust. It's equal parts challenging and rewarding, and I'm learning a ton about systems programming along the way.
+🦀 **[rush](https://github.com/villaleo/rush)** – Implementing a POSIX shell in Rust. It's equal parts challenging and rewarding, and I'm learning a ton about systems programming along the way.
 
 ### A bit about me
 
